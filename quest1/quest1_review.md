@@ -37,6 +37,9 @@
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화/모듈화했는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
+    - <img src = "https://github.com/EvaDS6/first-repository_yeon/blob/master/quest1/review3.PNG">
+    - 리스트 컴프리헨션 사용으로 코드가 간결합니다.
+
 
 
 # 회고(참고 링크 및 코드 개선)
